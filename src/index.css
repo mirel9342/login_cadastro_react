@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: 0;
+  font-family: sans-serif;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  justify-content: center;
+  margin: 0;
+  background-color: rgba(113, 0, 128, 0.082);
+ 
+}
